@@ -8,7 +8,8 @@ ourReusableFunction();
 // Only change code below this line to get output hi arun World
 
 function reusableFunction() {
-  console.log("Hi arun World");
+  ("Hi World");
 }
 
-reusableFunction();
+reusableFunction()
+
